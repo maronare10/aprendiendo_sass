@@ -1,10 +1,12 @@
 body {
-  background-color: #CD1818;
+  background-color: #FFA559;
   text-align: center;
 }
 
-h1 {
-  color: #ffe6c7;
+.card {
+  background-color: #fff;
+  border: 1px solid #454545;
+  border-radius: 4px;
 }
 
 /*# sourceMappingURL=styles.css.map */

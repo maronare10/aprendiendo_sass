@@ -1,8 +1,17 @@
+$primary-color: #FFA559;
+
 body {
-  background-color:  #CD1818;
+  background-color: $primary-color;
   text-align: center;
 }
 
-h1 {
-  color: #ffe6c7
+$card-bg: #fff;
+$card-border-color: #454545;
+$card-border-radius: 4px;
+
+
+.card {
+  background-color: $card-bg;
+  border: 1px solid $card-border-color;
+  border-radius: $card-border-radius;
 }
